@@ -1,6 +1,8 @@
 # FPGAGuitar
 Project Name: Mux it Up
+
 Team Members: Will Krska, Ammar Hussain, Ryan Smith, Alex Zhou
+
 Link to project video: https://youtu.be/iEcKXGjjsaE
 
 Overview of the project: For our project, we created a guitar on the FPGA by incorporating switches, buttons, VGA output, and sound output. We used the sixteen switches to represent the frets on a guitar neck and four of the buttons to represent our strings. We then would display on the VGA the held fret and the strummed string while also outputting the corresponding tone to that fret and string combination.
